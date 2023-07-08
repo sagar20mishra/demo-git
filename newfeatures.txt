@@ -1,0 +1,4 @@
+some new features we are adding to our product
+1. navigation bar
+2. dynamic drop down
+3. dependent list of values
